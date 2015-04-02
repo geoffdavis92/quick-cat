@@ -1,0 +1,25 @@
+{
+  "name": "quick-cat",
+  "version": "1.0.0",
+  "description": "Very simple CLI using concatenation and mathematical operations to combine strings and output math equations, all using command line input, or files (for text)",
+  "main": "combine.js",
+  "scripts": {
+    "test": "qcat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:geoffdavis92/nodeschool_tutorials.git"
+  },
+  "keywords": [
+    "text",
+    "math",
+    "simple",
+    "cli"
+  ],
+  "author": "geoffdavis92",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geoffdavis92/nodeschool_tutorials/issues"
+  },
+  "homepage": "https://github.com/geoffdavis92/nodeschool_tutorials"
+}
