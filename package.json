@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:geoffdavis92/nodeschool_tutorials.git"
+    "url": "git@github.com:geoffdavis92/quick-cat.git"
   },
   "keywords": [
     "text",
@@ -19,7 +19,7 @@
   "author": "geoffdavis92",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/geoffdavis92/nodeschool_tutorials/issues"
+    "url": "https://github.com/geoffdavis92/quick-cat/issues"
   },
-  "homepage": "https://github.com/geoffdavis92/nodeschool_tutorials"
+  "homepage": "https://geoffdavis92.github.io/quick-cat"
 }
