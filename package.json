@@ -1,6 +1,6 @@
 {
   "name": "quick-cat",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "Very simple CLI using concatenation and mathematical operations to combine strings and output math equations, all using command line input, or files (for text)",
   "main": "combine.js",
   "scripts": {
